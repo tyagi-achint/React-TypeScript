@@ -1,0 +1,11 @@
+.PropsPage {
+  padding: 10px;
+  border: 3px solid black;
+  border-radius: 10px;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(135deg, #009cad, #a3e5ed);
+  padding: 42px 24px;
+}
