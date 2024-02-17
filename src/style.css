@@ -10,4 +10,19 @@ body {
   margin: 0;
   background: linear-gradient(135deg, #009cad, #a3e5ed);
   padding: 42px 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button {
+  padding: 5px 10px;
+  border: 2px solid black;
+  margin: 10px;
+  color: black;
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: bolder;
+  font-size: medium;
+}
+button:hover {
+  background-color: black;
+  color: white;
 }
