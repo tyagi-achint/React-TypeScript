@@ -1,5 +1,6 @@
 .PropsPage,
-.useStatePage {
+.useStatePage,
+.useReducerPage {
   padding: 10px;
   border: 3px solid black;
   border-radius: 10px;
